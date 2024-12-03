@@ -1,2 +1,1 @@
-//ababbaba
 package entity
